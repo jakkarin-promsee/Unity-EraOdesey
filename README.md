@@ -107,3 +107,7 @@ A practical restoration order is to open the full project in its original Unity 
 ## Archive note
 
 The repository name `Unity-EraOdesey` and several class names differ from the game's title, **Era Odyssey**. This README retains existing file and class names so references remain accurate. The repository preserves a student team project as it was built, including the engineering decisions that made the original presentation possible and the maintenance work a future revision would require.
+
+## License
+
+Original code and documentation authored by Jakkarin Promsee are licensed under the [MIT License](LICENSE). Third-party code, assets, datasets, and other materials are not covered by this license; their original terms apply.
